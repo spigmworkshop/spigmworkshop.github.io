@@ -24,6 +24,31 @@ TBA
 * Camera ready for accepted submissions: **TBA**
 
 # keynote speakers
+<div class="row projects pt-1 pb-1">
+      <div class="col-sm-4">
+          {% include people.html name="Ruqi Zhang" affiliation="Purdue University" url="https://www.cs.helsinki.fi/u/ahyvarin/" img="/assets/img/people/ruqi.jpeg" %}
+      </div>
+      <div class="col-sm-4">
+        {% include people.html name="Karen Ullrich" affiliation="Meta" url="http://karenullrich.info/" img="/assets/img/people/karen.jpeg" %}
+      </div>
+      <div class="col-sm-4">
+          {% include people.html name="David Blei" affiliation="Columbia University" url="http://www.cs.columbia.edu/~blei/" img="assets/img/people/david.png" %}
+      </div>
+      <div class="w-100"></div>
+      <div class="col-sm-4">
+        {% include people.html name="Durk Kingma" affiliation="Google Research" img="assets/img/people/durk.jpeg" url="http://dpkingma.com/" %}
+      </div>
+      <div class="col-sm-4">
+        {% include people.html name="Stefano Ermon" affiliation="Stanford University" img="assets/img/people/stefano.jpeg" url="https://cs.stanford.edu/~ermon/" %}
+      </div>
+      <div class="col-sm-4">
+        {% include people.html name="Tommi Jaakkola" affiliation="MIT" img="assets/img/people/tommi.png" url="http://people.csail.mit.edu/tommi/" %}
+      </div>
+  </div>
+  
+
+
+# panelists
   <div class="row projects pt-1 pb-1">
       <div class="col-sm-4">
           {% include people.html name="Ruqi Zhang" affiliation="Purdue University" url="https://chenlin9.github.io/" img="/assets/img/people/chenlin.png" %}
@@ -46,39 +71,12 @@ TBA
       </div>
   </div>
 
-
-# panelists
-  <div class="row projects pt-1 pb-1">
-      <div class="col-sm-4">
-          {% include people.html name="Aapo Hyvärinen" affiliation="University of Helsinki" url="https://www.cs.helsinki.fi/u/ahyvarin/" img="/assets/img/people/aapo.jpeg" %}
-      </div>
-      <div class="col-sm-4">
-        {% include people.html name="Arnaud Doucet" affiliation="University of Oxford & DeepMind" url="https://www.stats.ox.ac.uk/~doucet/" img="/assets/img/people/arnaud.jpeg" %}
-      </div>
-      <div class="col-sm-4">
-          {% include people.html name="Jascha Sohl-Dickstein" affiliation="Google Brain" url="http://www.sohldickstein.com/" img="assets/img/people/jascha.png" %}
-      </div>
-      <div class="w-100"></div>
-      <div class="col-sm-4">
-        {% include people.html name="Rianne van den Berg" affiliation="Microsoft Research" img="assets/img/people/rianne.jpeg" url="https://www.microsoft.com/en-us/research/people/rvandenberg/" %}
-      </div>
-      <div class="col-sm-4">
-        {% include people.html name="Qiang Liu" affiliation="University of Texas at Austin" img="assets/img/people/qiang.jpeg" url="https://www.cs.utexas.edu/~lqiang/" %}
-      </div>
-      <div class="col-sm-4">
-        {% include people.html name="Mark Chen" affiliation="OpenAI" img="assets/img/people/mark.jpeg" url="https://scholar.google.com/citations?user=5fU-QMwAAAAJ&hl=en" %}
-      </div>
-      <div class="col-sm-4">
-        {% include people.html name="Sander Dieleman" affiliation="DeepMind" img="assets/img/people/sander.png" url="https://benanne.github.io/about/" %}
-      </div>
-  </div>
-
 # organizers
 
 <div class="row row-cols-2 projects pt-3 pb-3">
   {% include people_horizontal.html name="Dinghuai Zhang" affiliation="MILA" url="https://zdhnarsil.github.io/" img="/assets/img/people/dinghuai.jpeg" %}
   {% include people_horizontal.html name="Yuanqi Du" affiliation="Cornell" url="https://yuanqidu.github.io/" img="/assets/img/people/yuanqi.jpeg" %}
-  {% include people_horizontal.html name="Chenlin Meng" affiliation="Stanford" url="https://cs.stanford.edu/~chenlin/" img="/assets/img/people/chenlin.jpeg" %}
+  {% include people_horizontal.html name="Chenlin Meng" affiliation="Stanford" url="https://cs.stanford.edu/~chenlin/" img="/assets/img/people/chenlin.png" %}
   {% include people_horizontal.html name="Shawn Tan" affiliation="MILA" url="https://blog.wtf.sg" img="assets/img/people/shawn.jpeg" %}
   {% include people_horizontal.html name="Yingzhen Li" affiliation="Imperial College London" img="assets/img/people/yingzhen.jpeg" url="http://yingzhenli.net/home/en/" %}
   {% include people_horizontal.html name="Max Welling" affiliation="UvA & Microsoft Research" img="assets/img/people/max.jpeg" url="https://staff.fnwi.uva.nl/m.welling/" %}
