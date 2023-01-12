@@ -23,13 +23,13 @@ TBA
 
 * Camera ready for accepted submissions: **TBA**
 
-# keynote speakers
+# Keynote Speakers
 <div class="row projects pt-1 pb-1">
       <div class="col-sm-4">
           {% include people.html name="Ruqi Zhang" affiliation="Purdue University" url="https://www.cs.helsinki.fi/u/ahyvarin/" img="/assets/img/people/ruqi.jpeg" %}
       </div>
       <div class="col-sm-4">
-        {% include people.html name="Karen Ullrich" affiliation="Meta" url="http://karenullrich.info/" img="/assets/img/people/karen.jpeg" %}
+        {% include people.html name="Karen Ullrich" affiliation="Meta AI" url="http://karenullrich.info/" img="/assets/img/people/karen.jpeg" %}
       </div>
       <div class="col-sm-4">
           {% include people.html name="David Blei" affiliation="Columbia University" url="http://www.cs.columbia.edu/~blei/" img="assets/img/people/david.png" %}
@@ -48,30 +48,27 @@ TBA
   
 
 
-# panelists
+# Panelists
   <div class="row projects pt-1 pb-1">
       <div class="col-sm-4">
-          {% include people.html name="Ruqi Zhang" affiliation="Purdue University" url="https://chenlin9.github.io/" img="/assets/img/people/chenlin.png" %}
+          {% include people.html name="Charlotte Bunne" affiliation="ETH Zurich" url="https://www.bunne.ch/" img="/assets/img/people/charlotte.png" %}
       </div>
       <div class="col-sm-4">
-        {% include people.html name="Guan-Horng Liu" affiliation="Georgia Institute of Technology" url="https://ghliu.github.io/" img="/assets/img/people/guan.jpeg" %}
+        {% include people.html name="Yilun Xu" affiliation="MIT" url="http://yilun-xu.com/" img="/assets/img/people/yilun.png" %}
       </div>
       <div class="col-sm-4">
-        {% include people.html name="Karsten Kreis" affiliation="NVIDIA Research" url="https://karstenkreis.github.io/" img="/assets/img/people/karsten.jpeg" %}
+        {% include people.html name="Ricky Tian Qi Chen" affiliation="Meta AI" url="https://rtqichen.com/" img="/assets/img/people/ricky.jpeg" %}
       </div>
       <div class="w-100"></div>
       <div class="col-sm-4">
-          {% include people.html name="Mohammad Norouzi" affiliation="Google Brain" url="https://norouzi.github.io/" img="assets/img/people/mohammad.jpeg" %}
+          {% include people.html name="Yang Song" affiliation="OpenAI" url="https://yang-song.github.io/" img="assets/img/people/yang.jpeg" %}
       </div>
       <div class="col-sm-4">
-        {% include people.html name="Tommi Jaakkola" affiliation="MIT" img="assets/img/people/tommi.png" url="http://people.csail.mit.edu/tommi/" %}
-      </div>
-      <div class="col-sm-4">
-        {% include people.html name="Tamara Fernandez" affiliation="Adolfo Ibañez University" img="assets/img/people/tamara.jpeg" url="https://tamarafa.github.io/" %}
+        {% include people.html name="David Blei" affiliation="Columbia University" img="assets/img/people/david.jpeg" url="http://www.cs.columbia.edu/~blei/" %}
       </div>
   </div>
 
-# organizers
+# Organizers
 
 <div class="row row-cols-2 projects pt-3 pb-3">
   {% include people_horizontal.html name="Dinghuai Zhang" affiliation="MILA" url="https://zdhnarsil.github.io/" img="/assets/img/people/dinghuai.jpeg" %}
@@ -93,10 +90,10 @@ TBA
 * [Yoshua Bengio](https://yoshuabengio.org/), Université de Montreal & MILA.
 {% endcomment %}
 
-# contact
+# Contact
 For any questions, please contact us at .
 
-# sponsors
+# Sponsors
 TBA
 
 
