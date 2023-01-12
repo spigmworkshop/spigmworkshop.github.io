@@ -4,7 +4,7 @@
 
 first_name: SPIGM @ ICML
 last_name:
-title: PIGM @ ICML # the website title (if blank, full name will be used instead)
+title: SPIGM @ ICML # the website title (if blank, full name will be used instead)
 email: yd392@cornell.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A venue for structured probabilistic inference and generative modeling in ICML 2023.
