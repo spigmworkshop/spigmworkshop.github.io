@@ -2,7 +2,7 @@
 layout: page
 permalink: /cfp/
 title: call for papers
-nav: true
+nav: false
 nav_order: 3
 ---
 

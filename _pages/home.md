@@ -1,38 +1,32 @@
 ---
 layout: home
 title: home
-home_title: NeurIPS 2022 Workshop on Score-Based Methods
+home_title: ICML 2023 Workshop on Structured Probabilistic Inference & Generative Modeling
 subtitle:
 nav_title: home
 permalink: /
-description: A workshop to bring together researchers who use score-based methods in machine learning and statistics.
+description: A workshop to bring together researchers who study structured probabilistic inference and generative models.
 ---
 
-<h5 style="text-align:center;"><a href="https://neurips.cc/Register2">[click here for registration]</a></h5>
-<h5 style="text-align:center;"><a href="https://forms.gle/Zk9owxUBPf54DRnYA">[click here to submit your questions to our panelists]</a></h5>
+<!-- <h5 style="text-align:center;"><a href="https://neurips.cc/Register2">[click here for registration]</a></h5> -->
+<!-- <h5 style="text-align:center;"><a href="https://forms.gle/Zk9owxUBPf54DRnYA">[click here to submit your questions to our panelists]</a></h5> -->
 
-# introduction
+# Aim and Scope
 
-The **score function**, which is the gradient of the log-density, provides a unique way to represent probability distributions. By working with distributions through score functions, researchers have been able to develop efficient tools for machine learning and statistics, collectively known as **score-based methods**.
+TBA
 
-Score-based methods have had a significant impact on vastly disjointed subfields of machine learning and statistics, such as generative modeling, Bayesian inference, hypothesis testing, control variates and Stein’s methods. For example, score-based generative models, or denoising diffusion models, have emerged as the state-of-the-art technique for generating high quality and diverse images. In addition, recent developments in Stein’s method and score-based approaches for stochastic differential equations (SDEs) have contributed to the developement of fast and robust Bayesian posterior inference in high dimensions. These have potential applications in engineering fields, where they could help improve simulation models.
+# Key Dates
 
-At our workshop, we will bring together researchers from these various subfields to discuss the success of score-based methods, and identify common challenges across different research areas. We will also explore the potential for applying score-based methods to even more real-world applications, including in computer vision, signal processing, and computational chemistry. By doing so, we hope to folster collaboration among researchers and build a more cohesive research community focused on score-based methods.
+* Submission deadline: **TBA**
 
-This workshop will be an **in-person event** at [NeurIPS 2022](https://neurips.cc/), taking place on **Dec 2nd 2022** from **8:50am** to **5:00pm** in Room 293-294 at the New Orleans Convention Center. The session will cover invited talks, contributed talks, posters, and a panel discussion.
+* Acceptance notification: **TBA**
 
-# key dates
-
-* Submission deadline: **Sept 26, 2022 (11:59 pm AOE)**
-
-* Acceptance notification: **Oct 20, 2022**
-
-* Camera ready for accepted submissions: **Nov 25, 2022**
+* Camera ready for accepted submissions: **TBA**
 
 # keynote speakers
   <div class="row projects pt-1 pb-1">
       <div class="col-sm-4">
-          {% include people.html name="Chenlin Meng" affiliation="Stanford University" url="https://chenlin9.github.io/" img="/assets/img/people/chenlin.png" %}
+          {% include people.html name="Ruqi Zhang" affiliation="Purdue University" url="https://chenlin9.github.io/" img="/assets/img/people/chenlin.png" %}
       </div>
       <div class="col-sm-4">
         {% include people.html name="Guan-Horng Liu" affiliation="Georgia Institute of Technology" url="https://ghliu.github.io/" img="/assets/img/people/guan.jpeg" %}
@@ -92,47 +86,45 @@ This workshop will be an **in-person event** at [NeurIPS 2022](https://neurips.c
 </div>
 
 {% comment %}
+* [Dinghuai Zhang](https://zdhnarsil.github.io/), MILA.
+* [Yuanqi Du](https://yuanqidu.github.io/), Cornell.
+* [Chenlin Meng](https://cs.stanford.edu/~chenlin/), Stanford.
+* [Shawn Tan](https://blog.wtf.sg), MILA.
 * [Yingzhen Li](http://yingzhenli.net/home/en/), Imperial College London.
-* [Yang Song](https://yang-song.net), OpenAI.
-* [Valentin De Bortoli](https://vdeborto.github.io/), CNRS.
-* [François-Xavier Briol](https://fxbriol.github.io/), University College London.
-* [Wenbo Gong](http://mlg.eng.cam.ac.uk/?portfolio=wenbo-gong), Microsoft Research.
-* [Alexia Jolicoeur-Martineau](https://ajolicoeur.wordpress.com/about/), Samsung Research.
-* [Arash Vahdat](http://latentspace.cc/), NVIDIA Research.
+* [Mex Welling](https://staff.fnwi.uva.nl/m.welling/), UvA & Microsoft Research.
+* [Yoshua Bengio](https://yoshuabengio.org/), Université de Montreal & MILA.
 {% endcomment %}
 
 # contact
-For any questions, please contact us at [scorebased.workshop@gmail.com](mailto:scorebased.workshop@gmail.com).
+For any questions, please contact us at .
 
 # sponsors
-* [OpenAI](https://openai.com/) has generously agreed to sponsor around 6 workshop tickets for student from minority groups. Please fill in the [form](https://docs.google.com/forms/d/e/1FAIpQLSegnwUjVQbgUBo3kvDvTjULTcHTD5WS70fBUG1E22kAq9XxJA/viewform).
-
-* [NVIDIA](https://www.nvidia.com/en-us/) has generously provided 2 GPUs as gifts for our awardees.
+TBA
 
 
 {% comment %}
 <div class="row justify-content-center">
     <div class="col-sm-2 pt-5 pb-5">
-        {% include people.html name="Yingzhen Li" affiliation="Imperial College London" url="http://yingzhenli.net/home/en/" img="/assets/img/people/yingzhen.jpeg" %}
+        {% include people.html name="Dinghuai Zhang" affiliation="MILA" url="https://zdhnarsil.github.io/" img="/assets/img/people/dinghuai.jpeg" %}
     </div>
     <div class="col-sm-2 pt-5 pb-5">
-      {% include people.html name="Yang Song" affiliation="OpenAI" url="https://yang-song.net" img="/assets/img/people/yang.jpeg" %}
+      {% include people.html name="Yuanqi Du" affiliation="Cornell" url="https://yuanqidu.github.io/" img="/assets/img/people/yuanqi.jpeg" %}
     </div>
     <div class="col-sm-2 pt-5 pb-5">
-          {% include people.html name="Valentin De Bortoli" affiliation="CNRS" url="https://vdeborto.github.io/" img="/assets/img/people/valentin.jpeg" %}
+          {% include people.html name="Chenlin Meng" affiliation="Stanford" url="https://cs.stanford.edu/~chenlin/" img="/assets/img/people/chenlin.jpeg" %}
     </div>
     <div class="w-100"></div>
     <div class="col-sm-2 pt-5 pb-5">
-        {% include people.html name="François-Xavier Briol" affiliation="University College London" url="https://fxbriol.github.io/" img="assets/img/people/fxbriol.jpeg" %}
+        {% include people.html name="Shawn Tan" affiliation="MILA" url="https://blog.wtf.sg" img="assets/img/people/shawn.jpeg" %}
     </div>
     <div class="col-sm-2 pt-5 pb-5">
-      {% include people.html name="Wenbo Gong" affiliation="Microsoft Research" img="assets/img/people/wenbo.jpeg" url="http://mlg.eng.cam.ac.uk/?portfolio=wenbo-gong" %}
+      {% include people.html name="Yingzhen Li" affiliation="Imperial College London" img="assets/img/people/yingzhen.jpeg" url="http://yingzhenli.net/home/en/" %}
     </div>
     <div class="col-sm-2 pt-5 pb-5">
-    {% include people.html name="Alexia Jolicoeur-Martineau" affiliation="Samsung Research" img="assets/img/people/alexia.jpeg" url="https://ajolicoeur.wordpress.com/about/" %}
+    {% include people.html name="Max Welling" affiliation="UvA & Microsoft Research" img="assets/img/people/max.jpeg" url="https://staff.fnwi.uva.nl/m.welling/" %}
   </div>
     <div class="col-sm-2 pt-5 pb-5">
-        {% include people.html name="Arash Vahdat" affiliation="NVIDIA Research" img="assets/img/people/arash.jpeg" url="http://latentspace.cc/" %}
+        {% include people.html name="Yoshua Bengio" affiliation="Université de Montreal & MILA" img="assets/img/people/yoshua.jpeg" url="https://yoshuabengio.org/" %}
   </div>
 </div>
 

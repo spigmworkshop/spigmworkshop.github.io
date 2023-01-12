@@ -2,12 +2,12 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-first_name: SBM @ NeurIPS
+first_name: SPIGM @ ICML
 last_name:
-title: SBM @ NeurIPS # the website title (if blank, full name will be used instead)
-email: yangsong@cs.stanford.edu
+title: PIGM @ ICML # the website title (if blank, full name will be used instead)
+email: yd392@cornell.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A venue for score-based methods in NeurIPS 2022.
+  A venue for structured probabilistic inference and generative modeling in ICML 2023.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
