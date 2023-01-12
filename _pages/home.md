@@ -76,13 +76,13 @@ TBA
 # organizers
 
 <div class="row row-cols-2 projects pt-3 pb-3">
-  {% include people_horizontal.html name="Yingzhen Li" affiliation="Imperial College London" url="http://yingzhenli.net/home/en/" img="/assets/img/people/yingzhen.jpeg" %}
-  {% include people_horizontal.html name="Yang Song" affiliation="OpenAI" url="https://yang-song.net" img="/assets/img/people/yang.jpeg" %}
-  {% include people_horizontal.html name="Valentin De Bortoli" affiliation="CNRS" url="https://vdeborto.github.io/" img="/assets/img/people/valentin.jpeg" %}
-  {% include people_horizontal.html name="François-Xavier Briol" affiliation="University College London" url="https://fxbriol.github.io/" img="assets/img/people/fxbriol.jpeg" %}
-  {% include people_horizontal.html name="Wenbo Gong" affiliation="Microsoft Research" img="assets/img/people/wenbo.jpeg" url="http://mlg.eng.cam.ac.uk/?portfolio=wenbo-gong" %}
-  {% include people_horizontal.html name="Alexia Jolicoeur-Martineau" affiliation="Samsung — SAIT AI Lab, Montreal" img="assets/img/people/alexia.jpeg" url="https://ajolicoeur.wordpress.com/about/" %}
-  {% include people_horizontal.html name="Arash Vahdat" affiliation="NVIDIA Research" img="assets/img/people/arash.jpeg" url="http://latentspace.cc/" %}
+  {% include people_horizontal.html name="Dinghuai Zhang" affiliation="MILA" url="https://zdhnarsil.github.io/" img="/assets/img/people/dinghuai.jpeg" %}
+  {% include people_horizontal.html name="Yuanqi Du" affiliation="Cornell" url="https://yuanqidu.github.io/" img="/assets/img/people/yuanqi.jpeg" %}
+  {% include people_horizontal.html name="Chenlin Meng" affiliation="Stanford" url="https://cs.stanford.edu/~chenlin/" img="/assets/img/people/chenlin.jpeg" %}
+  {% include people_horizontal.html name="Shawn Tan" affiliation="MILA" url="https://blog.wtf.sg" img="assets/img/people/shawn.jpeg" %}
+  {% include people_horizontal.html name="Yingzhen Li" affiliation="Imperial College London" img="assets/img/people/yingzhen.jpeg" url="http://yingzhenli.net/home/en/" %}
+  {% include people_horizontal.html name="Max Welling" affiliation="UvA & Microsoft Research" img="assets/img/people/max.jpeg" url="https://staff.fnwi.uva.nl/m.welling/" %}
+  {% include people_horizontal.html name="Yoshua Bengio" affiliation="Université de Montreal & MILA" img="assets/img/people/yoshua.jpeg" url="https://yoshuabengio.org/" %}
 </div>
 
 {% comment %}
