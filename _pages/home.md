@@ -32,7 +32,7 @@ TBA
         {% include people.html name="Karen Ullrich" affiliation="Meta AI" url="http://karenullrich.info/" img="/assets/img/people/karen.jpeg" %}
       </div>
       <div class="col-sm-4">
-          {% include people.html name="David Blei" affiliation="Columbia University" url="http://www.cs.columbia.edu/~blei/" img="assets/img/people/david.png" %}
+          {% include people.html name="David Blei" affiliation="Columbia University" url="http://www.cs.columbia.edu/~blei/" img="assets/img/people/david.jpeg" %}
       </div>
       <div class="w-100"></div>
       <div class="col-sm-4">
@@ -51,7 +51,7 @@ TBA
 # Panelists
   <div class="row projects pt-1 pb-1">
       <div class="col-sm-4">
-          {% include people.html name="Charlotte Bunne" affiliation="ETH Zurich" url="https://www.bunne.ch/" img="/assets/img/people/charlotte.png" %}
+          {% include people.html name="Charlotte Bunne" affiliation="ETH Zurich" url="https://www.bunne.ch/" img="/assets/img/people/charlotte.jpeg" %}
       </div>
       <div class="col-sm-4">
         {% include people.html name="Yilun Xu" affiliation="MIT" url="http://yilun-xu.com/" img="/assets/img/people/yilun.png" %}
