@@ -23,7 +23,7 @@ TBA
 
 * Camera ready for accepted submissions: **TBA**
 
-# Keynote Speakers
+# Invited Speakers
 <div class="row projects pt-1 pb-1">
       <div class="col-sm-4">
           {% include people.html name="Ruqi Zhang" affiliation="Purdue University" url="https://www.cs.helsinki.fi/u/ahyvarin/" img="/assets/img/people/ruqi.jpeg" %}
