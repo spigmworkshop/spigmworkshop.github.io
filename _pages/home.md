@@ -26,7 +26,7 @@ TBA
 # Invited Speakers
 <div class="row projects pt-1 pb-1">
       <div class="col-sm-4">
-          {% include people.html name="Ruqi Zhang" affiliation="Purdue University" url="https://ruiqigao.github.io/" img="/assets/img/people/ruqi.jpeg" %}
+          {% include people.html name="Ruqi Zhang" affiliation="Purdue University" url="https://ruqizhang.github.io/" img="/assets/img/people/ruqi.jpeg" %}
       </div>
       <div class="col-sm-4">
         {% include people.html name="Karen Ullrich" affiliation="Meta AI" url="http://karenullrich.info/" img="/assets/img/people/karen.jpeg" %}
