@@ -13,10 +13,8 @@ description: A workshop to bring together researchers who study structured proba
 
 # Aim and Scope
 
-Probabilistic inference addresses the problem of amortization, sampling, and integration of complex quantities from graphical models, while generative modeling captures the underlying probability distributions of a dataset. 
-Despite promising results, probabilistic methods face challenges when applied to highly structured data.
-We aim to bring experts from diverse backgrounds together, from both academia and industry, to discuss the applications and challenges of probabilistic methods, emphasizing challenges in encoding domain knowledge in these settings.
-We hope to provide a platform that fosters collaboration and discussion in the field of probabilistic methods.
+Probabilistic inference addresses the problem of amortization, sampling, and integration of complex quantities from graphical models, while generative modeling captures the underlying probability distributions of a dataset. Despite promising results, probabilistic methods face challenges when applied to highly structured data. We aim to bring experts from diverse backgrounds together, from both academia and industry, to discuss the applications and challenges of probabilistic methods, emphasizing challenges in encoding domain knowledge in these settings. We hope to provide a platform that fosters collaboration and discussion in the field of probabilistic methods.
+
 Relevant topics to this workshop include but are not limited to:
 
 * Inference and generating methods for graphs, time series, text, video, and other structured modalities. 
@@ -26,16 +24,18 @@ Relevant topics to this workshop include but are not limited to:
 * Applications and practical implementations of existing methods to areas in science.
 * Empirical analysis comparing different architectures for a given data modality and application.
 
-# Key Dates
+# Key Dates (Anywhere on Earth)
 
 * Submission Starts: **2023/05/14 23:59**
 * Submission Deadline: **2023/05/26 23:59**
-
-* Withdraw Deadline: **2023/05/31 23:59**
-
 * Acceptance notification: **2023/06/19**
-
 * Camera ready for accepted submissions: **TBA**
+
+# Call for Reviewers
+If you are interested in reviewing for our workshop, please sign up this [google form](https://forms.gle/2SDYpf2bHoF86bAu8).
+
+# Submission Guidelines
+We solicit 4-page workshop papers following our LaTeX template (edited from ICML 2023 main conference paper template). Submit via [OpenReview](https://openreview.net/group?id=ICML.cc/2023/Workshop/SPIGM).
 
 # Invited Speakers
 <div class="row projects pt-1 pb-1">
@@ -105,10 +105,10 @@ Relevant topics to this workshop include but are not limited to:
 {% endcomment %}
 
 # Contact
-For any questions, please contact us at .
+For any questions, please contact us at [spigm@googlegroups.com](mailto:spigm@googlegroups.com).
 
-# Sponsors
-TBA
+<!-- # Sponsors
+TBA -->
 
 
 {% comment %}
