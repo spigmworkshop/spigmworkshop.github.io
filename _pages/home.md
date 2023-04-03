@@ -35,7 +35,7 @@ Relevant topics to this workshop include but are not limited to:
 If you are interested in reviewing for our workshop, please sign up this [google form](https://forms.gle/2SDYpf2bHoF86bAu8).
 
 # Submission Guidelines
-We solicit 4-page workshop papers following our LaTeX template (edited from ICML 2023 main conference paper template). Submit via [OpenReview](https://openreview.net/group?id=ICML.cc/2023/Workshop/SPIGM).
+We solicit 4-page workshop papers (with unlimited references and appendix) following our LaTeX template (edited from ICML 2023 main conference paper template). Submit via [OpenReview](https://openreview.net/group?id=ICML.cc/2023/Workshop/SPIGM).
 
 # Invited Speakers
 <div class="row projects pt-1 pb-1">
