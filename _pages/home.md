@@ -5,7 +5,6 @@ home_title: ICML 2023 Workshop on Structured Probabilistic Inference & Generativ
 subtitle:
 nav_title: home
 permalink: /
-description: A workshop to bring together researchers who study structured probabilistic inference and generative models.
 ---
 
 <!-- <h5 style="text-align:center;"><a href="https://neurips.cc/Register2">[click here for registration]</a></h5> -->
