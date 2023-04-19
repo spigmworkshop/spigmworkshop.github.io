@@ -84,23 +84,23 @@ We solicit 4-page workshop papers (with unlimited references and appendix) follo
 # Organizers
 
 <div class="row row-cols-2 projects pt-3 pb-3">
-  {% include people_horizontal.html name="Dinghuai Zhang" affiliation="MILA" url="https://zdhnarsil.github.io/" img="/assets/img/people/dinghuai.jpeg" %}
+  {% include people_horizontal.html name="Dinghuai Zhang" affiliation="Université de Montreal & Mila" url="https://zdhnarsil.github.io/" img="/assets/img/people/dinghuai.jpeg" %}
   {% include people_horizontal.html name="Yuanqi Du" affiliation="Cornell" url="https://yuanqidu.github.io/" img="/assets/img/people/yuanqi.jpeg" %}
   {% include people_horizontal.html name="Chenlin Meng" affiliation="Stanford" url="https://cs.stanford.edu/~chenlin/" img="/assets/img/people/chenlin.png" %}
-  {% include people_horizontal.html name="Shawn Tan" affiliation="MILA" url="https://blog.wtf.sg" img="assets/img/people/shawn.jpeg" %}
+  {% include people_horizontal.html name="Shawn Tan" affiliation="Université de Montreal & Mila" url="https://blog.wtf.sg" img="assets/img/people/shawn.jpeg" %}
   {% include people_horizontal.html name="Yingzhen Li" affiliation="Imperial College London" img="assets/img/people/yingzhen.jpeg" url="http://yingzhenli.net/home/en/" %}
   {% include people_horizontal.html name="Max Welling" affiliation="UvA & Microsoft Research" img="assets/img/people/max.jpeg" url="https://staff.fnwi.uva.nl/m.welling/" %}
-  {% include people_horizontal.html name="Yoshua Bengio" affiliation="Université de Montreal & MILA" img="assets/img/people/yoshua.jpeg" url="https://yoshuabengio.org/" %}
+  {% include people_horizontal.html name="Yoshua Bengio" affiliation="Université de Montreal & Mila" img="assets/img/people/yoshua.jpeg" url="https://yoshuabengio.org/" %}
 </div>
 
 {% comment %}
-* [Dinghuai Zhang](https://zdhnarsil.github.io/), MILA.
+* [Dinghuai Zhang](https://zdhnarsil.github.io/), Université de Montreal & Mila.
 * [Yuanqi Du](https://yuanqidu.github.io/), Cornell.
 * [Chenlin Meng](https://cs.stanford.edu/~chenlin/), Stanford.
-* [Shawn Tan](https://blog.wtf.sg), MILA.
+* [Shawn Tan](https://blog.wtf.sg), Université de Montreal & Mila.
 * [Yingzhen Li](http://yingzhenli.net/home/en/), Imperial College London.
 * [Mex Welling](https://staff.fnwi.uva.nl/m.welling/), UvA & Microsoft Research.
-* [Yoshua Bengio](https://yoshuabengio.org/), Université de Montreal & MILA.
+* [Yoshua Bengio](https://yoshuabengio.org/), Université de Montreal & Mila.
 {% endcomment %}
 
 # Contact
@@ -113,7 +113,7 @@ TBA -->
 {% comment %}
 <div class="row justify-content-center">
     <div class="col-sm-2 pt-5 pb-5">
-        {% include people.html name="Dinghuai Zhang" affiliation="MILA" url="https://zdhnarsil.github.io/" img="/assets/img/people/dinghuai.jpeg" %}
+        {% include people.html name="Dinghuai Zhang" affiliation="Université de Montreal & Mila" url="https://zdhnarsil.github.io/" img="/assets/img/people/dinghuai.jpeg" %}
     </div>
     <div class="col-sm-2 pt-5 pb-5">
       {% include people.html name="Yuanqi Du" affiliation="Cornell" url="https://yuanqidu.github.io/" img="/assets/img/people/yuanqi.jpeg" %}
@@ -123,7 +123,7 @@ TBA -->
     </div>
     <div class="w-100"></div>
     <div class="col-sm-2 pt-5 pb-5">
-        {% include people.html name="Shawn Tan" affiliation="MILA" url="https://blog.wtf.sg" img="assets/img/people/shawn.jpeg" %}
+        {% include people.html name="Shawn Tan" affiliation="Université de Montreal & Mila" url="https://blog.wtf.sg" img="assets/img/people/shawn.jpeg" %}
     </div>
     <div class="col-sm-2 pt-5 pb-5">
       {% include people.html name="Yingzhen Li" affiliation="Imperial College London" img="assets/img/people/yingzhen.jpeg" url="http://yingzhenli.net/home/en/" %}
@@ -132,7 +132,7 @@ TBA -->
     {% include people.html name="Max Welling" affiliation="UvA & Microsoft Research" img="assets/img/people/max.jpeg" url="https://staff.fnwi.uva.nl/m.welling/" %}
   </div>
     <div class="col-sm-2 pt-5 pb-5">
-        {% include people.html name="Yoshua Bengio" affiliation="Université de Montreal & MILA" img="assets/img/people/yoshua.jpeg" url="https://yoshuabengio.org/" %}
+        {% include people.html name="Yoshua Bengio" affiliation="Université de Montreal & Mila" img="assets/img/people/yoshua.jpeg" url="https://yoshuabengio.org/" %}
   </div>
 </div>
 
