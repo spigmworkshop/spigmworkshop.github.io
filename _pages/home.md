@@ -41,8 +41,7 @@ If you are interested in reviewing for our workshop, please sign up this [google
 We solicit 4-page workshop papers (with unlimited references and appendix) following our [LaTeX template](https://www.overleaf.com/read/tckgkpshvhgm) (edited from ICML 2023 main conference paper template). Submit via [OpenReview](https://openreview.net/group?id=ICML.cc/2023/Workshop/SPIGM).
 
 ## Frequently asked questions
-1. **Will there be workshop proceedings?**
-   No, this is a **non-archival** workshop. The research presented at this venue can be further refined from the feedback you receive and published somewhere else.
+* **Will there be workshop proceedings?** No, this is a **non-archival** workshop. The research presented at this venue can be further refined from the feedback you receive and published somewhere else.
 
 
 # Invited Speakers
