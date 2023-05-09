@@ -10,6 +10,10 @@ permalink: /
 <!-- <h5 style="text-align:center;"><a href="https://neurips.cc/Register2">[click here for registration]</a></h5> -->
 <!-- <h5 style="text-align:center;"><a href="https://forms.gle/Zk9owxUBPf54DRnYA">[click here to submit your questions to our panelists]</a></h5> -->
 
+# When and Where
+* **Date:** 28th July, 2023
+* **Venue:** ICML 2023, Hawaii Convention Center, Room 323
+
 # Aim and Scope
 
 Probabilistic inference addresses the problem of amortization, sampling, and integration of complex quantities from graphical models, while generative modeling captures the underlying probability distributions of a dataset. Despite promising results, probabilistic methods face challenges when applied to highly structured data. We aim to bring experts from diverse backgrounds together, from both academia and industry, to discuss the applications and challenges of probabilistic methods, emphasizing challenges in encoding domain knowledge in these settings. We hope to provide a platform that fosters collaboration and discussion in the field of probabilistic methods.
