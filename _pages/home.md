@@ -43,6 +43,8 @@ We solicit 4-page workshop papers (with unlimited references and appendix) follo
 ## Frequently asked questions
 * **Will there be workshop proceedings?** No, this is a **non-archival** workshop. The research presented at this venue can be further refined from the feedback you receive and published somewhere else.
 
+* **When will the submissions be made public?** They will be made public only after the review process.
+
 
 # Invited Speakers
 <div class="row projects pt-1 pb-1">
