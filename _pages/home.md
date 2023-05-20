@@ -43,6 +43,10 @@ We solicit 4-page workshop papers (with unlimited references and appendix) follo
 ## Frequently asked questions
 * **Will there be workshop proceedings?** No, this is a **non-archival** workshop. The research presented at this venue can be further refined from the feedback you receive and published somewhere else.
 
+* **Can we submit concurrently to another workshop?** Yes, but you'll also have to check the rules of the other workshop.
+
+* **Can I submit an already accepted paper?** No, unless there are substantial differences from the original work.
+
 * **When will the submissions be made public?** They will be made public only after the review process.
 
 
