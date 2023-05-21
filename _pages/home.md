@@ -44,9 +44,9 @@ We solicit 4-page workshop papers (with unlimited references and appendix) follo
       <div class="col-sm-4">
         {% include people.html name="Karen Ullrich" affiliation="Meta AI" url="http://karenullrich.info/" img="/assets/img/people/karen.jpeg" %}
       </div>
-      <div class="col-sm-4">
+      <!-- <div class="col-sm-4">
           {% include people.html name="David Blei" affiliation="Columbia University" url="http://www.cs.columbia.edu/~blei/" img="assets/img/people/david.png" %}
-      </div>
+      </div> -->
       <div class="w-100"></div>
       <div class="col-sm-4">
         {% include people.html name="Durk Kingma" affiliation="Google Research" img="assets/img/people/durk.jpeg" url="http://dpkingma.com/" %}
@@ -76,9 +76,9 @@ We solicit 4-page workshop papers (with unlimited references and appendix) follo
       <div class="col-sm-4">
           {% include people.html name="Yang Song" affiliation="OpenAI" url="https://yang-song.github.io/" img="assets/img/people/yang.jpeg" %}
       </div>
-      <div class="col-sm-4">
+      <!-- <div class="col-sm-4">
         {% include people.html name="David Blei" affiliation="Columbia University" img="assets/img/people/david.png" url="http://www.cs.columbia.edu/~blei/" %}
-      </div>
+      </div> -->
   </div>
 
 # Organizers
