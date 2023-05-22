@@ -49,6 +49,8 @@ We solicit 4-page workshop papers (with unlimited references and appendix) follo
 
 * **When will the submissions be made public?** They will be made public only after the review process.
 
+* **What modalities (images, audio, text etc.) are accepted?** We think structure exists in many different modalities, and encourage submissions of all data types.
+
 
 # Invited Speakers
 <div class="row projects pt-1 pb-1">
