@@ -47,7 +47,7 @@ We solicit 4-page workshop papers (with unlimited references and appendix) follo
 
 * **Can I submit an already accepted paper?** No, unless there are substantial differences from the original work.
 
-* **When will the submissions be made public?** They will be made public only after the review process.
+* **When will the submissions be made public?** They will be made public only after acceptance.
 
 * **What modalities (images, audio, text etc.) are accepted?** We think structure exists in many different modalities, and encourage submissions of all data types.
 
@@ -71,7 +71,6 @@ We solicit 4-page workshop papers (with unlimited references and appendix) follo
         {% include people.html name="Tommi Jaakkola" affiliation="MIT" img="assets/img/people/tommi.png" url="http://people.csail.mit.edu/tommi/" %}
       </div>
   </div>
-  
 
 
 # Panelists
