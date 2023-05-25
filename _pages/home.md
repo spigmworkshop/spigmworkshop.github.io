@@ -51,6 +51,8 @@ We solicit 4-page workshop papers (with unlimited references and appendix) follo
 
 * **What modalities (images, audio, text etc.) are accepted?** We think structure exists in many different modalities, and encourage submissions of all data types.
 
+* **Is the review process double blind?** Yes. We will be using the OpenReview platform.
+
 
 # Invited Speakers
 <div class="row projects pt-1 pb-1">
