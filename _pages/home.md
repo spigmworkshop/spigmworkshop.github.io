@@ -30,8 +30,8 @@ Relevant topics to this workshop include but are not limited to:
 # Key Dates (Anywhere on Earth)
 
 * Submission Starts: **2023/05/14 23:59**
-* Submission Deadline: **2023/05/26 23:59**
-* Acceptance notification: ~~2023/06/19 23:59~~ **2023/06/21 23:59 (AOE)**
+* Submission Deadline: ~~2023/05/26 23:59~~ **2023/05/28 23:59 (AOE)**
+* Acceptance notification: **2023/06/19 23:59**
 * Camera ready for accepted submissions: **TBA**
 
 # Call for Reviewers
