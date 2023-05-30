@@ -90,6 +90,10 @@ We solicit 4-page workshop papers (with unlimited references and appendix) follo
       <div class="col-sm-4">
           {% include people.html name="Yang Song" affiliation="OpenAI" url="https://yang-song.github.io/" img="assets/img/people/yang.jpeg" %}
       </div>
+      <div class="col-sm-4">
+          {% include people.html name="Arash Vahdat" affiliation="NVIDIA Research" url="http://latentspace.cc/" img="assets/img/people/vahdat.jpg" %}
+      </div>
+
   </div>
 
 # Organizers
