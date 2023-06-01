@@ -35,7 +35,7 @@ Relevant topics to this workshop include but are not limited to:
 * Camera ready for accepted submissions: **TBA**
 
 # Call for Reviewers
-If you are interested in reviewing for our workshop, please sign up this [google form](https://forms.gle/2SDYpf2bHoF86bAu8).
+~~If you are interested in reviewing for our workshop, please sign up this [google form](https://forms.gle/2SDYpf2bHoF86bAu8)~~
 
 # Submission Guidelines
 We solicit 4-page workshop papers (with unlimited references and appendix) following our [LaTeX template](https://www.overleaf.com/read/tckgkpshvhgm) (edited from ICML 2023 main conference paper template). Submit via [OpenReview](https://openreview.net/group?id=ICML.cc/2023/Workshop/SPIGM).
