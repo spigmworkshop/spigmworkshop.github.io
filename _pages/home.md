@@ -40,6 +40,9 @@ Relevant topics to this workshop include but are not limited to:
 # Submission Guidelines
 We solicit 4-page workshop papers (with unlimited references and appendix) following our [LaTeX template](https://www.overleaf.com/read/tckgkpshvhgm) (edited from ICML 2023 main conference paper template). Submit via [OpenReview](https://openreview.net/group?id=ICML.cc/2023/Workshop/SPIGM).
 
+## Poster Guidelines
+If accepted, you can present your poster during the workshop. The poster will be in **portrait** orientation and up to **24"w x 36"h**
+
 ## Frequently asked questions
 * **Will there be workshop proceedings?** No, this is a **non-archival** workshop. The research presented at this venue can be further refined from the feedback you receive and published somewhere else.
 
