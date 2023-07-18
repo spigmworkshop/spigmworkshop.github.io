@@ -12,7 +12,8 @@ permalink: /
 
 # When and Where
 * **Date:** 28th July, 2023
-* **Venue:** ICML 2023, Hawaii Convention Center, Room 323
+* **Venue:** ICML 2023, Hawaii Convention Center, Room 323 
+* **Schedule**: [here](/schedule/)
 
 # Aim and Scope
 

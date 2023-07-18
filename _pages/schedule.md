@@ -7,25 +7,24 @@ nav_order: 1
 ---
 
 
-| **Time (CST)**{: .h5} | **Event**{: .h5} |
+| **Time (HST)**{: .h5} | **Event**{: .h5} |
 | :-----:   | :-----: |
-| 8:50 | **Introduction and opening remarks** |
-| 9:00 | **Invited** (Karsten Kreis): Accelerated Sampling and Improved Synthesis in Diffusion Models |
-| 9:30 | **Invited** (Tommi Jaakkola): Diffusion Models and Alternatives for Molecular Modeling |
-| 10:00 | **Poster session** |
-| 11:00 | **Panel discussion** |
-| 12:00 | **Contributed talk**: Molecular Docking with Diffusion Generative Models |
-| 12:10 | **Contributed talk**: Statistical Efficiency of Score Matching: The View from Isoperimetry |
-| 12:20 | **Contributed talk**: Multiresolution Textual Inversion |
-| 12:30 | **Lunch break** |
-| 13:30 | **Invited** (Guan-Horng Liu): Generalized Schrödinger Bridge: From Generative Modeling to Mean-Field Games |
-| 14:00 | **Invited** (Tamara Fernandez): Kernelized Score-Based Tests |
-| 14:30 | **Contributed talk**: On Distillation of Guided Diffusion Models |
-| 14:40 | **Contributed talk**: An Optimal Control Perspective on Diffusion-Based Generative Modeling |
-| 14:50 | **Contributed talk**: Targeted Separation and Convergence with Kernel Discrepancies |
-| 15:00 | **Poster session** |
-| 15:55 | **Award announcement** |
-| 16:00 | **Invited** (Chenlin Meng): Score-Based Generative Models and Their Applications |
-| 16:30 | **Invited** (Mohammad Norouzi): Imagenary Patterns with Diffusion Models |
+| 0900 | **Opening Remarks** |
+| 0910 | Invited talk by **Karen Ullrich** |
+| 0950 | Invited talk by **Tommi Jaakkola** |
+| 1030 | **Coffee Break** |
+| 1050 | Invited talk by **Durk Kingma** |
+| 1130 | Contributed talk: **Collapsed Inference for Bayesian Deep Learning** |
+| 1140 | Contributed talk: **Provable benefits of score matching** |
+| 1150 | Contributed talk: **BOOT: Data-free Distillation of Denoising Diffusion Models with Bootstrapping** |
+| 1200 | **Poster Session 1** |
+| 1300 | Panel Discussion: **Yang Song**, **Yilun Xu**, **Ricky T.Q. Chen**, **Charlotte Bunne**, **Arash Vahdat**, moderated by **Chenling Meng** |
+| 1400 | Invited talk by **Ruqi Zhang** |
+| 1440 | Invited talk by **Stefano Ermon** |
+| 1520 | Contributed talk: **BayesDAG: Gradient-based Posterior Sampling for Causal Discovery** |
+| 1530 | Contributed talk: **Generative Marginalization Models** |
+| 1540 | Contributed talk: **Joint Bayesian Inference of Graphical Structure and Parameters with a Single Generative Flow Network**|
+| 1550 | **Closing Remarks** |
+| 1600 | **Poster Session 2** |
 {: .table}
 {: .table-striped}
