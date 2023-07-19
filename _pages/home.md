@@ -33,7 +33,7 @@ Relevant topics to this workshop include but are not limited to:
 * Submission Starts: **2023/05/14 23:59**
 * Submission Deadline: ~~2023/05/26 23:59~~ **2023/05/28 23:59 (AOE)**
 * Acceptance notification: **2023/06/19 23:59**
-* Camera ready for accepted submissions: **TBA**
+* Camera ready for accepted submissions: **2023/07/01 23:59**
 
 # Call for Reviewers
 ~~If you are interested in reviewing for our workshop, please sign up this [google form](https://forms.gle/2SDYpf2bHoF86bAu8)~~
