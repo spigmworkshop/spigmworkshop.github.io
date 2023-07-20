@@ -14,6 +14,7 @@ permalink: /
 * **Date:** 28th July, 2023
 * **Venue:** ICML 2023, Hawaii Convention Center, Room 323 
 * **Schedule**: [here](/schedule/)
+* [**Join the SPIGM Slack**](https://join.slack.com/t/probabilistic-uqc8990/shared_invite/zt-1z6q3tufq-qFpQCp7VJJuVxWogYR1_cA)
 
 # Aim and Scope
 
