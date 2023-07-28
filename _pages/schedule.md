@@ -18,7 +18,7 @@ nav_title: schedule
 | 11:40 | Contributed talk: **Provable benefits of score matching** |
 | 11:50 | Contributed talk: **BOOT: Data-free Distillation of Denoising Diffusion Models with Bootstrapping** |
 | 12:00 | **Poster Session 1** |
-| 13:00 | Panel Discussion: **Yang Song**, **Yilun Xu**, **Ricky T.Q. Chen**, **Charlotte Bunne**, **Arash Vahdat**, moderated by **Chenling Meng** |
+| 13:00 | Panel Discussion: **Yang Song**, **Yilun Xu**, **Ricky T.Q. Chen**, **Charlotte Bunne**, **Arash Vahdat**, moderated by **Chenlin Meng** |
 | 14:00 | Invited talk by **Ruqi Zhang** |
 | 14:40 | Invited talk by **Stefano Ermon** |
 | 15:20 | Contributed talk: **BayesDAG: Gradient-based Posterior Sampling for Causal Discovery** |
