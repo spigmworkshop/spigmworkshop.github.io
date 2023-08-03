@@ -15,6 +15,9 @@ permalink: /
 * **Venue:** ICML 2023, Hawaii Convention Center, Room 323 
 * **Schedule**: [here](/schedule/)
 
+# Accepted Papers
+The accepted papers for the workshop can now be viewed [here](https://openreview.net/group?id=ICML.cc/2023/Workshop/SPIGM)
+
 # Aim and Scope
 
 Probabilistic inference addresses the problem of amortization, sampling, and integration of complex quantities from graphical models, while generative modeling captures the underlying probability distributions of a dataset. Despite promising results, probabilistic methods face challenges when applied to highly structured data. We aim to bring experts from diverse backgrounds together, from both academia and industry, to discuss the applications and challenges of probabilistic methods, emphasizing challenges in encoding domain knowledge in these settings. We hope to provide a platform that fosters collaboration and discussion in the field of probabilistic methods.
